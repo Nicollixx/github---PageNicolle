@@ -35,11 +35,11 @@ Além da área tech, também valorizo criatividade, aprendizado contínuo e obje
 # 🗂️ Portfólio Acadêmico com GitHub
 - Organização e desenvolvimento de atividades acadêmicas utilizando GitHub como plataforma de portfólio.
 
-### 🧠 Banco de Dados — Saúde Mental
+# 🧠 Banco de Dados — Saúde Mental
 - Projeto de modelagem de banco de dados voltado para saúde mental no ambiente de trabalho.
 - Aplicação de conceitos de coleta, estruturação e organização de dados.
 
-### 🧬 Genética e Leis de Mendel
+# 🧬 Genética e Leis de Mendel
 - Pesquisa acadêmica sobre genética e as contribuições das Leis de Mendel para a sociedade.
 - Utilização de simulações interativas com o **PhET**.
 
