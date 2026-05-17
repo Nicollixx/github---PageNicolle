@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Nicolle Coelho
 
-### 🎓 Estudante de Engenharia de Software | 18 anos
+# 🎓 Estudante de Engenharia de Software | 18 anos
 
 <p>
   Apaixonada por tecnologia, desenvolvimento web, redes de computadores e aprendizado contínuo.
@@ -32,7 +32,7 @@ Além da área tech, também valorizo criatividade, aprendizado contínuo e obje
   - Meios de transmissão
   - Conceitos da Internet
 
-### 🗂️ Portfólio Acadêmico com GitHub
+# 🗂️ Portfólio Acadêmico com GitHub
 - Organização e desenvolvimento de atividades acadêmicas utilizando GitHub como plataforma de portfólio.
 
 ### 🧠 Banco de Dados — Saúde Mental
