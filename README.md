@@ -1,38 +1,53 @@
 <div align="center">
 
-# Olá 👋, eu sou Nicolle Coelho!
+# 👋 Olá, eu sou Nicolle Coelho
 
-### Estudante de Engenharia de Software | 18 Anos de Idade
+### 🎓 Estudante de Engenharia de Software | 18 anos
 
-## Nicolle Coelho
-Meu nome é Nicolle, tenho 18 anos e sou estudante universitária. Atualmente, estou em processo de desenvolvimento acadêmico e profissional, buscando ampliar meus conhecimentos e experiências em diferentes áreas. Tenho interesse por tecnologia, redes de computadores e produção acadêmica, além de dedicação aos estudos e ao crescimento pessoal. Também valorizo atividades criativas e objetivos pessoais, como aprender a tocar guitarra, viajar e conquistar novas realizações ao longo da vida acadêmica e profissional.
-
-</div
-
----
-
-### Projetos Acadêmicos Realizados
-
-- Desenvolvimento de trabalhos sobre redes de computadores, abordando histórico das redes, topologias, dispositivos de interconexão, meios de transmissão e conceitos da Internet.
-- Criação de atividades e conteúdos utilizando GitHub para organização de portfólio acadêmico e apresentação de projetos.
-- Elaboração de projeto sobre modelagem de banco de dados voltado para saúde mental no ambiente de trabalho, utilizando conceitos de coleta e organização de dados.
-- Produção de pesquisa sobre as Leis de Mendel e as contribuições da genética para a sociedade no qual utilizei simulações interativas com o PhET
+<p>
+  Apaixonada por tecnologia, desenvolvimento web, redes de computadores e aprendizado contínuo.
+</p>
 
 </div>
 
 ---
 
-## 💻 Minha Stack e Habilidades Principais
+# 👩‍💻 Sobre Mim
 
-Minhas competências estão em constante evolução, focadas em Desenvolvimento, Infraestrutura/Redes e Segurança.
+Meu nome é **Nicolle Coelho**, tenho 18 anos e atualmente curso **Engenharia de Software** no **UniCEUB**.
 
-### 🌐 Linguagens & Tecnologias
+Estou em constante desenvolvimento acadêmico e profissional, buscando ampliar meus conhecimentos em tecnologia, programação, redes de computadores e segurança da informação.
 
-| Foco | Tecnologias & Ferramentas | Nível |
-| :--- | :--- | :--- |
-| **Front-end** | HTML5, CSS3 e JavaScript | Básico / Estudando |
+Além da área tech, também valorizo criatividade, aprendizado contínuo e objetivos pessoais, como aprender guitarra, viajar e conquistar novas experiências ao longo da minha trajetória.
 
-<br>
+---
+
+# 🚀 Projetos Acadêmicos
+
+### 📡 Redes de Computadores
+- Estudos sobre:
+  - Histórico das redes
+  - Topologias
+  - Dispositivos de interconexão
+  - Meios de transmissão
+  - Conceitos da Internet
+
+### 🗂️ Portfólio Acadêmico com GitHub
+- Organização e desenvolvimento de atividades acadêmicas utilizando GitHub como plataforma de portfólio.
+
+### 🧠 Banco de Dados — Saúde Mental
+- Projeto de modelagem de banco de dados voltado para saúde mental no ambiente de trabalho.
+- Aplicação de conceitos de coleta, estruturação e organização de dados.
+
+### 🧬 Genética e Leis de Mendel
+- Pesquisa acadêmica sobre genética e as contribuições das Leis de Mendel para a sociedade.
+- Utilização de simulações interativas com o **PhET**.
+
+---
+
+# 💻 Tecnologias & Habilidades
+
+## 🌐 Linguagens e Ferramentas
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -41,31 +56,56 @@ Minhas competências estão em constante evolução, focadas em Desenvolvimento,
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
 </p>
 
----
-
-## 🎓 Educação
-
-* 🏫 **Bacharelado em Engenharia de Software (1º Semestre)** — UniCEUB  
-* 📍 Residente em Brasília, DF.
-
----
-
-## 🛠️ Objetivos & Projetos Futuros
-* 🚀 Desenvolver meus primeiros projetos web completos (Front-end + Back-end).
-* 🔒 Explorar conceitos fundamentais de redes, automação e segurança da informação.
-* 📈 Colaborar em projetos open-source e desafios acadêmicos.
+### 📚 Atualmente estudando
+- HTML5
+- CSS3
+- JavaScript
+- Java
+- Redes de Computadores
+- Segurança da Informação
 
 ---
 
-## 🔗 Conecte-se Comigo
+# 🎓 Educação
 
-Estou ativamente buscando oportunidades onde eu possa aplicar e expandir minhas habilidades. Vamos conversar?
+🎓 **Bacharelado em Engenharia de Software**  
+🏫 UniCEUB — 1º Semestre
+
+📍 Brasília - DF
+
+---
+
+# 🛠️ Objetivos
+
+- 🚀 Desenvolver aplicações web completas
+- 🔒 Aprender mais sobre redes, automação e segurança
+- 📈 Participar de projetos open-source
+- 💡 Evoluir constantemente como desenvolvedora
+
+---
+
+# 🌎 Conecte-se comigo
 
 <div align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolle-coelho-617b533a9)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nicollix._/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nicollixx)
+<a href="https://www.linkedin.com/in/nicolle-coelho-617b533a9" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/nicollix._/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="https://github.com/Nicollixx" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </div>
 
+---
+
+<div align="center">
+
+✨ “Sempre aprendendo, evoluindo e construindo novos caminhos na tecnologia.” ✨
+
+</div>
