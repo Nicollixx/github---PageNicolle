@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Nicolle Coelho
 
-# 🎓 Estudante de Engenharia de Software | 18 anos
+### 🎓 Estudante de Engenharia de Software | 18 anos
 
 <p>
   Apaixonada por tecnologia, desenvolvimento web, redes de computadores e aprendizado contínuo.
@@ -32,14 +32,14 @@ Além da área tech, também valorizo criatividade, aprendizado contínuo e obje
   - Meios de transmissão
   - Conceitos da Internet
 
-# 🗂️ Portfólio Acadêmico com GitHub
+### 🗂️ Portfólio Acadêmico com GitHub
 - Organização e desenvolvimento de atividades acadêmicas utilizando GitHub como plataforma de portfólio.
 
-# 🧠 Banco de Dados — Saúde Mental
+### 🧠 Banco de Dados — Saúde Mental
 - Projeto de modelagem de banco de dados voltado para saúde mental no ambiente de trabalho.
 - Aplicação de conceitos de coleta, estruturação e organização de dados.
 
-# 🧬 Genética e Leis de Mendel
+### 🧬 Genética e Leis de Mendel
 - Pesquisa acadêmica sobre genética e as contribuições das Leis de Mendel para a sociedade.
 - Utilização de simulações interativas com o **PhET**.
 
@@ -84,28 +84,24 @@ Além da área tech, também valorizo criatividade, aprendizado contínuo e obje
 
 ---
 
-# 🌎 Conecte-se comigo
-
-<div align="left">
-
-<a href="https://www.linkedin.com/in/nicolle-coelho-617b533a9" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://www.instagram.com/nicollix._/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-<a href="https://github.com/Nicollixx" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</div>
-
----
-
-<div align="center">
 
 ✨ “Sempre aprendendo, evoluindo e construindo novos caminhos na tecnologia.” ✨
+
+
+# 🌎 Conecte-se comigo
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/nicolle-coelho-617b533a9" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="https://www.instagram.com/nicollix._/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+
+  <a href="https://github.com/Nicollixx" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
 </div>
