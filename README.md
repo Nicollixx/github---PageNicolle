@@ -4,6 +4,8 @@
 
 ### 🎓 Estudante de Engenharia de Software | 18 anos
 
+---
+
 <p>
   Apaixonada por tecnologia, desenvolvimento web, redes de computadores e aprendizado contínuo.
 </p>
